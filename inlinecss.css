@@ -1,0 +1,11 @@
+p{
+    color: red
+}
+
+#abc {
+    color: sandybrown;background-color: seagreen;
+    padding: 10px;
+}
+.redbg{
+    color: slateblue;background-color: hotpink;
+}
